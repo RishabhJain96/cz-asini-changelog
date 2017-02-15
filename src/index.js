@@ -1,7 +1,7 @@
 import conventionalChangelog from 'cz-conventional-changelog';
 
-import PackageUtilities from 'lerna/lib/PackageUtilities';
-import Repository from 'lerna/lib/Repository';
+import PackageUtilities from 'asini/lib/PackageUtilities';
+import Repository from 'asini/lib/Repository';
 
 import shell from 'shelljs';
 import path from 'path';
