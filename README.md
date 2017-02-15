@@ -1,4 +1,4 @@
-# cz-lerna-changelog
+# cz-asini-changelog
 
 Status:
 [![npm version](https://img.shields.io/npm/v/cz-lerna-changelog.svg?style=flat-square)](https://www.npmjs.org/package/cz-lerna-changelog)
